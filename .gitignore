@@ -1,0 +1,5 @@
+cypress/fixtures/
+node_modules/
+cypress/downloads/
+cypress/Reports/
+cypress/Videos/

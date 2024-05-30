@@ -1,0 +1,11 @@
+{
+  "name": "Terpel_Admin",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "*",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.7.0",
+    "cypress-xpath": "^2.0.1",
+    "faker": "^5.5.3"
+  }
+}
